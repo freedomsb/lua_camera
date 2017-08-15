@@ -2,7 +2,7 @@ package = "camera"
 version = "1.0-0"
 
 source = {
-   url = "git://github.com/clementfarabet/lua---camera",
+   url = "git://github.com/freedomsb/lua_camera.git",
    tag = "1.0-0"
 }
 
@@ -11,7 +11,7 @@ description = {
    detailed = [[
 Uses OpenCV on MacOS and video4linux2 on Linux to proved the low level access to the camera hardware.
    ]],
-   homepage = "https://github.com/clementfarabet/lua---camera",
+   homepage = "https://github.com/freedomsb/lua_camera.git",
    license = "BSD"
 }
 
